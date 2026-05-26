@@ -296,12 +296,9 @@ Password: admin123
 
 # 📸 Screenshots
 
-> Add your project screenshots here
-
-```md
-![Dashboard Screenshot](./screenshots/dashboard.png)
-```
-
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="100%">
+</p>
 ---
 
 # 🧠 Resume Description
