@@ -299,7 +299,7 @@ Password: admin123
 ## Dashboard
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="100%">
+  <img src="./screenshots/dashboard.png" width="75%">
 </p>
 
 ---
