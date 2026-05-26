@@ -296,9 +296,12 @@ Password: admin123
 
 # 📸 Screenshots
 
+## Dashboard
+
 <p align="center">
   <img src="./screenshots/dashboard.png" width="100%">
 </p>
+
 ---
 
 # 🧠 Resume Description
