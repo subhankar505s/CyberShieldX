@@ -300,7 +300,7 @@ Password: admin123
 ## Dashboard
 
 <p align="center">
-  <img src="./screenshots/dashboard.png" width="85%">
+  <img src="./screenshots/dashboard.png" width="95%">
 </p>
 
 ---
