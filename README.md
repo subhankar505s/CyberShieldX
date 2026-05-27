@@ -28,6 +28,7 @@ The platform provides multiple integrated security tools including:
 - 🌐 Port Scanner
 - 📡 Packet Sniffer
 - 🔐 AES-256 Encryption
+- 🔑 Password Protector
 - ☣️ Malware Scanner
 - 🎣 Phishing Detector
 - 📊 Log Analyzer
