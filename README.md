@@ -392,26 +392,31 @@ Password: admin123
 <p align="center">
   <img src="./screenshots/dashboard.png" width="100%">
 </p>
+
 ## PORT SCANNER
 
 <p align="center">
   <img src="./screenshots/port_scanner.png" width="100%">
 </p>
+
 ## VULNERABILITY SCANNER
 
 <p align="center">
   <img src="./screenshots/vulnerability.png" width="100%">
 </p>
+
 ## MALWARE HASH SCANNER
 
 <p align="center">
   <img src="./screenshots/malware.png" width="100%">
 </p>
+
 ## FILE & TEXT ENCRYPTION
 
 <p align="center">
   <img src="./screenshots/encryption.png" width="100%">
 </p>
+
 
 ## PHISHING URL DETECTOR
 
