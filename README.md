@@ -158,16 +158,106 @@ The platform provides multiple integrated security tools including:
 # 📂 Project Structure
 
 ```bash
-cybershield-x/
+CyberShieldX/
 │
 ├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx                              # Login Page
+│   │
+│   ├── dashboard/
+│   │   ├── page.tsx                          # Main Dashboard
+│   │   ├── encryption/
+│   │   │   └── page.tsx
+│   │   ├── log-analyzer/
+│   │   │   └── page.tsx
+│   │   ├── malware-scanner/
+│   │   │   └── page.tsx
+│   │   ├── packet-sniffer/
+│   │   │   └── page.tsx
+│   │   ├── password-tools/
+│   │   │   └── page.tsx
+│   │   ├── phishing-detector/
+│   │   │   └── page.tsx
+│   │   ├── port-scanner/
+│   │   │   └── page.tsx
+│   │   ├── reports/
+│   │   │   └── page.tsx
+│   │   ├── settings/
+│   │   │   └── page.tsx
+│   │   └── vulnerability-scanner/
+│   │       └── page.tsx
+│
 ├── components/
+│   ├── auth/
+│   │   └── login-form.tsx
+│   │
+│   ├── dashboard/
+│   │   └── dashboard-content.tsx
+│   │
+│   ├── layout/
+│   │   └── dashboard-layout.tsx
+│   │
+│   ├── security/
+│   │   ├── encryption.tsx
+│   │   ├── log-analyzer.tsx
+│   │   ├── malware-scanner.tsx
+│   │   ├── packet-sniffer.tsx
+│   │   ├── password-tools.tsx
+│   │   ├── phishing-detector.tsx
+│   │   ├── port-scanner.tsx
+│   │   ├── reports.tsx
+│   │   ├── settings.tsx
+│   │   └── vulnerability-scanner.tsx
+│   │
+│   ├── ui/                                   # shadcn/ui Components
+│   │   ├── badge.tsx
+│   │   ├── button.tsx
+│   │   ├── card.tsx
+│   │   ├── chart.tsx
+│   │   ├── input.tsx
+│   │   ├── progress.tsx
+│   │   ├── scroll-area.tsx
+│   │   ├── select.tsx
+│   │   ├── slider.tsx
+│   │   ├── switch.tsx
+│   │   ├── tabs.tsx
+│   │   └── ...
+│   │
+│   └── theme-provider.tsx
+│
 ├── hooks/
+│   ├── use-mobile.ts
+│   └── use-toast.ts
+│
 ├── lib/
+│   ├── auth-context.tsx
+│   ├── scan-store.ts
+│   ├── security-tools.ts
+│   └── utils.ts
+│
 ├── public/
+│   ├── screenshots/
+│   │   ├── dashboard.png
+│   │   ├── login.png
+│   │   ├── port-scanner.png
+│   │   └── vulnerability-scanner.png
+│   │
+│   └── assets/
+│
+├── screenshots/
+│   └── dashboard.png
+│
 ├── package.json
+├── package-lock.json
 ├── tsconfig.json
-└── next.config.mjs
+├── next.config.mjs
+├── postcss.config.mjs
+├── tailwind.config.ts
+├── middleware.ts
+├── README.md
+├── LICENSE
+└── .gitignore
 ```
 
 ---
