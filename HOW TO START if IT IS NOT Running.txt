@@ -1,0 +1,9 @@
+Install Node.js manually 
+then-open cmd here
+
+npm install 
+npm install lucide-react recharts sonner zod react-hook-form @hookform/resolvers
+npm install @radix-ui/react-tabs @radix-ui/react-select @radix-ui/react-switch @radix-ui/react-slider @radix-ui/react-scroll-area
+npm install clsx tailwind-merge class-variance-authority 
+npm install tailwindcss @tailwindcss/postcss postcss 
+npm run dev  
