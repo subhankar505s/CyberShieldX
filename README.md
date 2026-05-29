@@ -432,20 +432,6 @@ Implemented secure authentication, AES-256 encryption, real-time security monito
 
 ---
 
-# 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-Fork the repository and create a pull request.
-
----
-
-# 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 # 👨‍💻 Developer
 
 <div align="center">
