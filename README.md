@@ -450,11 +450,3 @@ Designed & Developed by Subhankar Mohanta
 # ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub.
-
-```bash
-⭐ Star The Repository
-🍴 Fork The Project
-🛡️ Build Secure Systems
-```
-
----
