@@ -438,7 +438,7 @@ Implemented secure authentication, AES-256 encryption, real-time security monito
 
 ## Subhankar Mohanta
 
-Cybersecurity Enthusiast • Full Stack Developer • SOC Dashboard Developer
+Cybersecurity Enthusiast • Network Engineer • SOC Dashboard Developer
 
 © 2026 CyberShield X v1.0.0  
 Designed & Developed by Subhankar Mohanta
